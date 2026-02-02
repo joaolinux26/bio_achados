@@ -94,3 +94,24 @@ a {
         padding: 0.2rem 3rem;
         position: relative;
     }
+
+    .link-whatsapp {
+        background-color: #25D366;
+        border-radius: 20px;
+        padding: 1rem 3rem;
+        position: relative;
+        text-align: center;
+    }
+
+    .link-whatsapp a {
+        color: #ffffff;
+        text-decoration: none;
+        font-weight: 700;
+    }
+
+    .link-whatsapp .fa-brands {
+        color: #ffffff;
+        margin-right: 8px;
+    }
+
+    
